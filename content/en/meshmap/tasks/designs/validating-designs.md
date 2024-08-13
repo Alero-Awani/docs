@@ -27,9 +27,9 @@ This comprehensive validation ensures that:
 
     ![Performing Validation](/meshmap/getting-started/images/performing-validation.png)
 
-If the validation is successful, you will see a modal displaying the number of components validated and the number of annotations, similar to the one shown below:
+    If the validation is successful, you will see a modal displaying the number of components validated and the number of annotations, similar to the one shown below:
 
-![Successful Validation](/meshmap/getting-started/images/successful-validation.png)
+    ![Successful Validation](/meshmap/getting-started/images/successful-validation.png)
 
 ## Handling Validation Errors
 
